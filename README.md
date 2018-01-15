@@ -1,1 +1,1 @@
-# azure-app-test
+# azure-app-test-angular
