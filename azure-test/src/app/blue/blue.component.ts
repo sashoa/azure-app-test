@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-blue',
   template: `
     <div class="wrapper"></div>
-    <p>LOL</p>
+    <p>Sashe Apostolovski</p>
   `,
   styles: ['div.wrapper { width: 500px; height: 500px; background-color: blue; }']
 })
